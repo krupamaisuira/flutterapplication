@@ -106,7 +106,7 @@ class MyStatelessWidgetDemo extends StatelessWidget {
             Icon(
               Icons.audiotrack_rounded,
               color : Colors.deepPurple,
-              size :30,
+              size :100,
 
             ),
           ],
