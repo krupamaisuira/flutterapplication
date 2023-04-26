@@ -100,7 +100,7 @@ class MyStatelessWidgetDemo extends StatelessWidget {
             Icon(
               Icons.calendar_month_sharp,
               color : Colors.amber,
-              size :30,
+              size :50,
 
             ),
             Icon(
